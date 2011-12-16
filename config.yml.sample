@@ -4,3 +4,9 @@ elastic_ip: IP
 instances:
   - INSTANCE_ID_1
   - INSTANCE_ID_2
+tags:
+  TAG_NAME1:
+    - TAG_VALUE1
+    - production
+  TAG_NAME2:
+    - some value
