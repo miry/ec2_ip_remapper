@@ -18,3 +18,5 @@ Usage
 Or:
 
      remapper.remap_to(remapper.instances.shuffle.first)
+     
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/miry/ec2_ip_remapper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
